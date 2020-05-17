@@ -1,2 +1,2 @@
 # Interactivity_with_JS
-Interactivity with JS, Cousera
+Solutions of week 2 and week 4 projects of the course "Interactivity with Javascript" on Coursera.
